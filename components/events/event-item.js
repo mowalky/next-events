@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import classes from "./event-item.module.css";
 
 import Button from "../ui/button";
